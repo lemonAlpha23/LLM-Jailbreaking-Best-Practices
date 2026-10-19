@@ -8,8 +8,18 @@
 
 值得关注的博主:
 
-elder_plinius ：
+1.elder_plinius ：
 
-顶级大模型“零日越狱”第一人，神级存在
+顶级大模型“零日越狱”第一人，神级存在。感觉参考价值不是很大
 
 [x.com/elder_plinius](https://x.com/elder_plinius)
+
+[github.com/elder-plinius](https://github.com/elder-plinius)
+
+2.L站的一个人
+
+测试了一下提示词，但是不生效
+
+[linux.do/u/ethanpier/summary](https://linux.do/u/ethanpier/summary)
+
+[github.com/Jia-Ethan/codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith)
