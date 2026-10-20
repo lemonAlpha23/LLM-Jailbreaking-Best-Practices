@@ -4,8 +4,6 @@
 
 本文整理的是自己一些在大模型越狱方面相关的思考以及收集的一些公开的文章
 
-
-
 值得关注的博主:
 
 1.elder_plinius ：
@@ -23,3 +21,13 @@
 [linux.do/u/ethanpier/summary](https://linux.do/u/ethanpier/summary)
 
 [github.com/Jia-Ethan/codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith)
+
+
+3.了另一个博主，但是现在还没有测试
+
+[linux.do/u/y_yuhou/summary](https://linux.do/u/y_yuhou/summary)
+
+
+
+
+4. 直接去hugging face 上下载被修改的模型
